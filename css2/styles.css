@@ -1,0 +1,19 @@
+body {background: linear-gradient(#B5EAEA, white);
+}
+
+h1{Color: #0093AB}
+
+h3 {Color: #0093AB}
+
+hr {
+    background: linear-gradient(#B5EAEA, white);
+    border-style: none;
+    border-top-style: dotted;
+    border-color: white;
+    border-width: 5px;
+    width: 30%;
+    }
+
+#heading {
+      color: #006778;
+    }
